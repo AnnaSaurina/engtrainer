@@ -1,0 +1,71 @@
+[{
+    "id":"14597",
+    "english":"bird",
+    "transcription":"[bɜːd]",
+    "russian":"птица",
+    "tags":"object",
+    "tags_json":"[\"object\"]"
+},
+{
+    "id":"14600",
+    "english":"sleep",
+    "transcription":"transcription",
+    "russian":"спать","tags":"action",
+    "tags_json":"[\"action\"]"},
+{
+    "id":"14601",
+    "english":"blue",
+    "transcription":"[mama]",
+    "russian":"синий",
+    "tags":"цвет",
+    "tags_json":"[\"u0446u0432u0435u0442\"]"
+},
+{
+    "id":"14612",
+    "english":"cat",
+    "transcription":"[kæt]",
+    "russian":"кошка",
+    "tags":"животные",
+    "tags_json":"[\"u0436u0438u0432u043eu0442u043du044bu0435\"]"
+},
+{
+    "id":"14613",
+    "english":"dog",
+    "transcription":"[dɒɡ]",
+    "russian":"собака",
+    "tags":"животные",
+    "tags_json":"[\"u0436u0438u0432u043eu0442u043du044bu0435\"]"
+},
+{
+    "id":"14614",
+    "english":"cat",
+    "transcription":"[kæt]",
+    "russian":"кот",
+    "tags":"животные",
+    "tags_json":"[\"u0436u0438u0432u043eu0442u043du044bu0435\"]"
+},
+{
+    "id":"14616",
+    "english":"blue",
+    "transcription":"[mama]",
+    "russian":"синий",
+    "tags":"цвет",
+    "tags_json":"[\"u0446u0432u0435u0442\"]"
+},
+{
+    "id":"14628",
+    "english":"english",
+    "transcription":"[ˈɪŋɡlɪʃ]",
+    "russian":"английский",
+    "tags":"languages",
+    "tags_json":"[\"languages\"]"
+},
+{
+    "id":"14634",
+    "english":"test",
+    "transcription":"transcription",
+    "russian":"тест",
+    "tags":"",
+    "tags_json":"[\"\"]"
+    }
+]
