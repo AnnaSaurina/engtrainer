@@ -1,18 +1,13 @@
+import './Header.css';
 
-function Hero(props) {
+function Header() {
     return (
-        <div className="hero-card">
-            <div className="hero-name">{props.name}</div>
-            <div className="hero-universe">Вселенная: {props.universe}</div>
-            <div className="hero-alterego">Альтерэго: {props.alterego}</div>
-            <div className="hero-occupation">Занятость: {props.occupation}</div>
-            <div className="hero-friends">Друзья: {props.univefriendsse}</div>
-            <div className="hefriendso-superpowers">Суперсила: {props.superpowers}</div>
-            <div className="hero-info">Инфо: {props.info}</div>
-            <img src={props.url} className="hero-img" alt="img" />
-            <button>Click!</button>
+        <div className="header__wrapper">
+            <h3 className="header__wrapper-title">Word Simulator</h3>
+            <div className="header__wrapper-item">Главная</div>
+            <div className="header__wrapper-list">Показать список слов</div>
         </div>
     );
 }
 
-export default Hero;
+export default Header;
